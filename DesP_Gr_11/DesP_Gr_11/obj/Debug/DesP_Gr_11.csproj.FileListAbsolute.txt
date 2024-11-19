@@ -1,0 +1,32 @@
+c:\users\admin\documents\visual studio 2015\Projects\DesP_Gr_11\DesP_Gr_11\bin\Debug\DesP_Gr_11.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\DesP_Gr_11\DesP_Gr_11\obj\Debug\DesP_Gr_11.Connexion.resources
+c:\users\admin\documents\visual studio 2015\Projects\DesP_Gr_11\DesP_Gr_11\obj\Debug\DesP_Gr_11.Menu.resources
+c:\users\admin\documents\visual studio 2015\Projects\DesP_Gr_11\DesP_Gr_11\obj\Debug\DesP_Gr_11.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\DesP_Gr_11\DesP_Gr_11\obj\Debug\DesP_Gr_11.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\DesP_Gr_11\DesP_Gr_11\bin\Debug\DesP_Gr_11.exe
+c:\users\admin\documents\visual studio 2015\Projects\DesP_Gr_11\DesP_Gr_11\bin\Debug\DesP_Gr_11.pdb
+c:\users\admin\documents\visual studio 2015\Projects\DesP_Gr_11\DesP_Gr_11\obj\Debug\DesP_Gr_11.exe
+c:\users\admin\documents\visual studio 2015\Projects\DesP_Gr_11\DesP_Gr_11\obj\Debug\DesP_Gr_11.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DesP_Gr_11\DesP_Gr_11\obj\Debug\DesP_Gr_11.Client.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DesP_Gr_11\DesP_Gr_11\obj\Debug\DesP_Gr_11.Transact.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DesP_Gr_11\DesP_Gr_11\obj\Debug\DesP_Gr_11.Employes.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DesP_Gr_11\DesP_Gr_11\obj\Debug\DesP_Gr_11.Frm_Credit.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DesP_Gr_11\DesP_Gr_11\obj\Debug\DesP_Gr_11.FrmPaiement.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DesP_Gr_11\DesP_Gr_11\obj\Debug\DesP_Gr_11.Em_Clie.resources
+C:\Users\Admin\Desktop\DesP_Gr_11\DesP_Gr_11\bin\Debug\DesP_Gr_11.exe.config
+C:\Users\Admin\Desktop\DesP_Gr_11\DesP_Gr_11\obj\Debug\DesP_Gr_11.exe
+C:\Users\Admin\Desktop\DesP_Gr_11\DesP_Gr_11\obj\Debug\DesP_Gr_11.pdb
+C:\Users\Admin\Desktop\DesP_Gr_11\DesP_Gr_11\bin\Debug\DesP_Gr_11.exe
+C:\Users\Admin\Desktop\DesP_Gr_11\DesP_Gr_11\bin\Debug\DesP_Gr_11.pdb
+C:\Users\Admin\Desktop\DesP_Gr_11\DesP_Gr_11\obj\Debug\DesP_Gr_11.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DesP_Gr_11\DesP_Gr_11\obj\Debug\DesP_Gr_11.Em_Clie.resources
+C:\Users\Admin\Desktop\DesP_Gr_11\DesP_Gr_11\obj\Debug\DesP_Gr_11.FrmPaiement.resources
+C:\Users\Admin\Desktop\DesP_Gr_11\DesP_Gr_11\obj\Debug\DesP_Gr_11.Frm_Credit.resources
+C:\Users\Admin\Desktop\DesP_Gr_11\DesP_Gr_11\obj\Debug\DesP_Gr_11.Employes.resources
+C:\Users\Admin\Desktop\DesP_Gr_11\DesP_Gr_11\obj\Debug\DesP_Gr_11.Client.resources
+C:\Users\Admin\Desktop\DesP_Gr_11\DesP_Gr_11\obj\Debug\DesP_Gr_11.Connexion.resources
+C:\Users\Admin\Desktop\DesP_Gr_11\DesP_Gr_11\obj\Debug\DesP_Gr_11.Menu.resources
+C:\Users\Admin\Desktop\DesP_Gr_11\DesP_Gr_11\obj\Debug\DesP_Gr_11.Transact.resources
+C:\Users\Admin\Desktop\DesP_Gr_11\DesP_Gr_11\obj\Debug\DesP_Gr_11.Properties.Resources.resources
+C:\Users\Admin\Desktop\DesP_Gr_11\DesP_Gr_11\obj\Debug\DesP_Gr_11.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DesP_Gr_11\DesP_Gr_11\obj\Debug\DesP_Gr_11.csprojResolveAssemblyReference.cache
